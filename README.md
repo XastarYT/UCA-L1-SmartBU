@@ -1,6 +1,3 @@
-# UCA-L1-SmartBU
-Projet L1 - Système de comptage de flux directionnel connecté en LoRaWAN pour la bibliothèque universitaire (Carte UCA / Capteurs PIR).
-
 # Smart-BU : Compteur de présence intelligent
 
 Ce projet est réalisé dans le cadre du module "Communication Sans Fil" (Licence 1 - Université Côte d'Azur).
