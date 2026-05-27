@@ -12,7 +12,7 @@ Les données sont ensuite transmises via **The Things Network (TTN)** pour être
 
 * 1x **Carte UCA** (Microcontrôleur ATmega328PB avec puce LoRa 868 MHz intégrée).
 * 2x **Capteurs PIR** (Détecteurs de mouvement infrarouge).
-* 1x Câble micro-USB (pour le téléversement et l'alimentation).
+* 1x **Câble micro-USB** (pour le téléversement et l'alimentation).
 
 ## ⚙️ Prérequis Logiciels et Dépendances
 
